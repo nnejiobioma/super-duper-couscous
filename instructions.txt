@@ -1,0 +1,4 @@
+inatructions for deploying this site 
+------------------------------------
+
+lorem ipsum color site amet, bla bla bla
