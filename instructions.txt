@@ -6,3 +6,5 @@ qcucqjcbjbchdbcvhqdbchbdhcvbdhbvhdbdbcjdbcjdbjqdjcjklkpkkdjnwjdnlwdwkdodkduhjefj
 dcknjednekkenkec;QLSWODKEOJQE
 CEJOQEKFQEKEFNQEOOIFOEPOKEOEOJCOFOEJFIEFIEFJEKFWPKWODEE'FKWLJW
 
+this is another commit from command line in a new branch, adding more lines, 
+the one i added is not showing up in my command i dont know why.
